@@ -1,1 +1,2 @@
 Learning Git 
+Git iis great.Git s amazing
