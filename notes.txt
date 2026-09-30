@@ -1,3 +1,8 @@
-Learning Git 
+Learning Git using Branch A
 Git iis great.Git s amazing
 this line was added in the feature-notes branch
+
+git remote add origin https://github.com/SaemaWhitehatjr/GitLearning.git
+git branch -M main
+git push -u origin main
+
